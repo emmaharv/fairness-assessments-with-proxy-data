@@ -1,0 +1,133 @@
+Name,Link,# of Papers
+Synthetic Data,-,29
+COMPAS,https://github.com/propublica/compas-analysis,16
+Adult,https://archive.ics.uci.edu/ml/datasets/adult,14
+Statlog German Credit,https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data),10
+Proprietary Data,-,6
+Folktables,https://github.com/zykls/folktables,6
+ImageNet,https://datasets.activeloop.ai/docs/ml/datasets/imagenet-dataset/,4
+Amazon Reviews,https://nijianmo.github.io/amazon/index.html,3
+Chicago Face Dataset,https://www.chicagofaces.org/,3
+Boston Housing,https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html,3
+Portuguese Student Performance,https://archive.ics.uci.edu/ml/datasets/Student+Performance,3
+Law School Admissions Council (LSAC),http://www.seaphe.org/databases.php,3
+Open Images,https://storage.googleapis.com/openimages/web/index.html,2
+Wikipedia Archives,https://dumps.wikimedia.org/,2
+FairFace,https://github.com/joojs/fairface,2
+CFPB Home Mortgage Disclosure Act (HMDA),https://www.consumerfinance.gov/data-research/hmda/,2
+MovieLens-20M,https://grouplens.org/datasets/movielens/20m/,2
+American Community Survey (ACS),http://www.census.gov/programs-surveys/acs/,2
+MNIST,http://yann.lecun.com/exdb/mnist/,2
+Taiwan Credit Card Default,http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients,2
+VQA 2.0,https://visualqa.org/,2
+Wisconsin Breast Cancer,https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29,3
+MIMIC-III,https://physionet.org/content/mimiciii/1.4/,2
+RWF2000,https://github.com/mchengny/RWF2000-Video-Database-for-Violence-Detection,1
+Plausible Alien Zoo,https://github.com/ukuhl/PlausibleAlienZoo,1
+Platform Control,https://www.platformcontrol.org/,1
+TWOPA,https://docs.google.com/spreadsheets/d/1QDFJiNvwYL-MFdfS5ZobDB9DBFITHi-Uu6J7dkUfeio/edit#gid=0,1
+Bank Marketing,https://archive.ics.uci.edu/ml/datasets/bank+marketing,1
+Wine Quality,https://archive.ics.uci.edu/ml/datasets/wine+Quality,1
+VoxCeleb1,https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox1.html,1
+Singapore Bus Routes,https://github.com/rmitbggroup/facct_2022_dataset,1
+Speech Accent Archive (SAA),https://accent.gmu.edu/,1
+Intonational Variation in English (IViE),http://www.phon.ox.ac.uk/files/apps/IViE/,1
+Brazilian Region-based annotated Child Pornography Dataset (RCPD),http://patreo.dcc.ufmg.br/datasets/rcpd/,1
+Last.fm,http://ocelma.net/MusicRecommendationDataset/index.html,1
+NYPD SQF,https://www1.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page,1
+EPA Toxic Release Inventory,https://www.epa.gov/toxics-release-inventory-tri-program/tri-data-and-tools,1
+GoogleLocal,https://cseweb.ucsd.edu/~jmcauley/datasets.html,1
+FashionMNIST,https://github.com/zalandoresearch/fashion-mnist,1
+CIFAR-10,http://www.cs.toronto.edu/~kriz/cifar.html,1
+Heart Disease,https://archive.ics.uci.edu/ml/datasets/Heart+Disease,1
+Pima Indians diabetes,https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.csv,1
+IMDB Movie Reviews,https://www.cs.cornell.edu/people/pabo/movie-review-data/,1
+Facial Expressions,https://www.kaggle.com/competitions/challenges-in-representation-learning-facial-expression-recognition-challenge/data,1
+Lending Club,https://www.kaggle.com/datasets/wordsforthewise/lending-club,1
+Measuring Hate Speech,https://huggingface.co/datasets/ucberkeley-dlab/measuring-hate-speech,1
+DWMW17,https://github.com/t-davidson/hate-speech-and-offensive-language,1
+FDCL18,https://dataverse.mpi-sws.org/dataset.xhtml?persistentId=doi:10.5072/FK2/ZDTEMN,1
+TwitterAAE,http://slanglab.cs.umass.edu/TwitterAAE/,1
+Stanford Question Answering Dataset (SQuAD),https://paperswithcode.com/dataset/squad,1
+Chest X-Rays,https://data.mendeley.com/datasets/rscbjbr9sj/3,1
+Home Equity Line of Credit,https://community.fico.com/s/explainable-machine-learning-challenge,1
+Home Owners’ Loan Corporation (HOLC),"https://www.wenfeixu.com/redliningmap/
+https://osf.io/qytj8/",1
+MSOAC,https://c-path.org/programs/msoac/,1
+Floodlight,https://vivli.org/,1
+Give Me Some Credit,https://www.kaggle.com/c/GiveMeSomeCredit/overview,1
+Heloc Dataset,https://community.fico.com/s/explainable-machine-learning-challenge,1
+U.S. Homeless Management Information System (HMIS),https://www.hudexchange.info/resource/3824/hmis-data-dictionary/,1
+UCR time series repository,https://www.cs.ucr.edu/~eamonn/time_series_data_2018/,1
+Large Movie Review,https://ai.stanford.edu/~amaas/data/sentiment/,1
+UCF11,https://www.crcv.ucf.edu/data/UCF_YouTube_Action.php,1
+Visual Genome,https://visualgenome.org/api/v0/api_home.html,1
+Visual7W,https://github.com/yukezhu/visual7w-toolkit,1
+GQA,https://cs.stanford.edu/people/dorarad/gqa/,1
+OK-VQA,https://okvqa.allenai.org/,1
+National Data Archive on Child Abuse and Neglect (NDACAN),https://www.ndacan.acf.hhs.gov/datasets/datasets-list-afcars-foster-care.cfm,1
+Casual Conversations,https://ai.facebook.com/datasets/casual-conversations-dataset,1
+AffWild2,https://ibug.doc.ic.ac.uk/resources/aff-wild2/,1
+BP4D-Spontaneous,http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html,1
+BP4D+,https://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html,1
+Extended Cohn-Kanade Dataset (CK+),http://www.jeffcohn.net/Resources/,1
+The Denver Intensity of Spontaneous Facial Action (DISFA),http://mohammadmahoor.com/disfa/,1
+DISFA+,http://mohammadmahoor.com/disfa/,1
+ERIK,-,1
+Sayette Group Formation Task Spontaneous Facial Expression Database (GFT),https://osf.io/7wcyz/wiki/home/,1
+UNBC-McMaster Shoulder Pain Expression Archive Database (UNBC),https://www.jeffcohn.net/resources/,1
+Warfarin,https://www.pharmgkb.org/downloads,1
+Emsi Burning Glass (EBG),-,1
+Stanford Social Network: FB,https://snap.stanford.edu/data/index.html#socnets,1
+WIKI-Bias,https://github.com/cs329yangzhong/wikibias,1
+BABE,https://github.com/Media-Bias-Group/Neural-Media-Bias-Detection-Using-Distant-Supervision-With-BABE,1
+MBIC,https://zenodo.org/record/4474336#.Y1p2BOzMI-R,1
+Credit China,https://www.creditchina.gov.cn/,1
+WiderFace,http://shuoyang1213.me/WIDERFACE/,1
+CelebA,https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html,1
+CLEVR,https://cs.stanford.edu/people/jcjohns/clevr/,1
+Parkinson's,https://archive.ics.uci.edu/ml/datasets/Parkinsons,1
+Bodyfat,https://www.openml.org/search?type=data&sort=runs&id=560&status=active,1
+MONK's Problems,https://archive.ics.uci.edu/ml/datasets/MONK's+Problems,1
+Congressional Voting Records,https://archive.ics.uci.edu/ml/datasets/congressional+voting+records,1
+SPECT Heart,https://archive.ics.uci.edu/ml/datasets/SPECT+Heart,1
+Tic-Tac-Toe,https://archive.ics.uci.edu/ml/datasets/Tic-Tac-Toe+Endgame,1
+Hayes-Roth,https://archive.ics.uci.edu/ml/datasets/Hayes-Roth,1
+Nursery,https://archive.ics.uci.edu/ml/datasets/Nursery,1
+Mushroom,https://archive.ics.uci.edu/ml/datasets/Mushroom,1
+Breast Cancer,https://archive.ics.uci.edu/ml/datasets/Breast+Cancer,1
+Car Evaluation,https://archive.ics.uci.edu/ml/datasets/Car+Evaluation,1
+Primary Tumor,https://archive.ics.uci.edu/ml/datasets/Primary+Tumor,1
+Mammographic Mass,https://archive.ics.uci.edu/ml/datasets/Mammographic+Mass,1
+Website Phishing,https://archive.ics.uci.edu/ml/datasets/Website+Phishing,1
+Balance Scale,https://archive.ics.uci.edu/ml/datasets/Balance+Scale,1
+Wine,https://archive.ics.uci.edu/ml/datasets/Wine,1
+Iris,https://archive.ics.uci.edu/ml/datasets/Iris,1
+Breast Cancer Coimbra,https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra,1
+Optical Recognition of Handwritten Digits,http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits,1
+Graduate Student Admissions,https://stats.idre.ucla.edu/stat/data/binary.csv,1
+Banknote Authentication,https://archive.ics.uci.edu/ml/datasets/banknote+authentication,1
+Crowdsourced Mapping,https://archive.ics.uci.edu/ml/datasets/Crowdsourced+Mapping,1
+Wifi Indoor Localization,https://archive.ics.uci.edu/ml/datasets/Wireless+Indoor+Localization,1
+Vertebral Column,http://archive.ics.uci.edu/ml/datasets/vertebral+column,1
+Planning Relax,https://archive.ics.uci.edu/ml/datasets/Planning+Relax,1
+Diabetic Retinopathy Debrecen,https://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set,1
+Haberman's Survival,https://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival,1
+Skin Segmentation,https://archive.ics.uci.edu/ml/datasets/Skin+Segmentation,1
+HTRU2,https://archive.ics.uci.edu/ml/datasets/HTRU2,1
+MAGIC Gamma Telescope,https://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope,1
+Seeds,https://archive.ics.uci.edu/ml/datasets/seeds,1
+EEG Eye State,https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State,1
+PERTARCH2,https://github.com/openeventdata/petrarch2/blob/master/petrarch2/data/text/GigaWord.sample.PETR.xml,1
+CAMEO,https://parusanalytics.com/eventdata/data.dir/cameo.html,1
+Goodreads Authors,https://www.kaggle.com/datasets/choobani/goodread-authors,1
+FIFA Players,https://www.kaggle.com/datasets/stefanoleone992/fifa-20-complete-player-dataset,1
+IBM HR Analytics,https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset,1
+"AI, Algorithmic and Automation Incident and Controversy Repository (AIAAIC)","https://docs.google.com/spreadsheets/d/1Bn55B4xz21-_Rgdr8BBb2lt0n_4rzLGxFADMlVW0PYI/edit#gid=1051812323""",1
+Communities and Crime,http://archive.ics.uci.edu/ml/datasets/communities+and+crime,1
+JUSTFAIR,https://qsideinstitute.org/research/criminal-justice/justfair/,1
+Common Objects in Context (COCO),https://cocodataset.org/,2
+Conceptual Captions (CC),https://ai.google.com/research/ConceptualCaptions/,1
+Diabetes (130 US Hospitals),https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008,1
+Medical Expenditure Panel Survey (MEPS),https://www.ahrq.gov/data/meps.html,1
+Diabetes (LARS),https://hastie.su.domains/Papers/LARS/,2
